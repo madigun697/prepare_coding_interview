@@ -1,0 +1,2 @@
+language = "python3"
+run = "python ./'Section 4: How To Solve Coding Problems'/exercise.py"
