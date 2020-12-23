@@ -22,12 +22,18 @@ def getCommonItem1(arr1, arr2):
 	return False
 # Time complexity is O(a*b)
 # Space complexity is O(1)
+print('--- Brute-Force ---')
 print(getCommonItem1(array1, array2))
 print(getCommonItem1(array3, array4))
 
 def getCommonItem2(arr1, arr2):
 	# Create dictionary with first array
 	firstArray = dict.fromkeys(arr1, True)
+	# The result of the below code is the same as to the result of the above code using the built-in function
+	# firstArray = {}
+	# for item in arr1:
+	# 	firstArray[item] = True
+
 	for item in arr2:
 		# If the dictionary which based on first array has key that is same to item of seconde array, these two arrays have common item
 		if firstArray.get(item):
@@ -36,5 +42,7 @@ def getCommonItem2(arr1, arr2):
 	return False
 # Time complexity is O(a+b)
 # Space somplextiy is O(a), because we assign the new dictionary with first array's size
+print('--- Better Solution ---')
 print(getCommonItem2(array1, array2))
 print(getCommonItem2(array3, array4))
+print('-------------------')
