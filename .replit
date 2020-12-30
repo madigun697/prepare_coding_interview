@@ -1,2 +1,2 @@
 language = "python3"
-run = "python ./'Section 6: Data Structures: Arrays'/leetcode/longestWord.py"
+run = "python ./'Section 7: Data Structures: Hash Tables'/firstRecurringCharacter.py"
