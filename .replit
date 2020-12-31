@@ -1,2 +1,2 @@
 language = "python3"
-run = "python ./'Section 7: Data Structures: Hash Tables'/firstRecurringCharacter.py"
+run = "python ./'Section 8: Data Structures: Linked Lists'/SinglyLinkedList/implementation.py"

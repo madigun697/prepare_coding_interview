@@ -11,10 +11,10 @@ Many developers who are "self taught", feel that one of the main disadvantages t
 ### Here is what you will learn in this course:
 
 #### Technical:
-1. Big O notation
+1. [Big O notation](https://github.com/madigun697/prepare_coding_interview/tree/main/Section%203:%20Big%20O)
 2. Data structures: 
-	* Arrays
-	* Hash Tables
+	* [Arrays](https://github.com/madigun697/prepare_coding_interview/tree/main/Section%206:%20Data%20Structures:%20Arrays)
+	* [Hash Tables](https://github.com/madigun697/prepare_coding_interview/tree/main/Section%207:%20Data%20Structures:%20Hash%20Tables)
 	* Singly Linked Lists
 	* Doubly Linked Lists
 	* Queues
