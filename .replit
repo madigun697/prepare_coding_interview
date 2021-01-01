@@ -1,2 +1,2 @@
 language = "python3"
-run = "python ./'Section  10: Data Structures: Trees/implementationQueueUsingStack.py"
+run = "python ./'Section  10: Data Structures: Trees'/PriorityQueue.py"

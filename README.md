@@ -15,10 +15,12 @@ Many developers who are "self taught", feel that one of the main disadvantages t
 2. Data structures: 
 	* [Arrays](https://github.com/madigun697/prepare_coding_interview/tree/main/Section%206:%20Data%20Structures:%20Arrays)
 	* [Hash Tables](https://github.com/madigun697/prepare_coding_interview/tree/main/Section%207:%20Data%20Structures:%20Hash%20Tables)
-	* Singly Linked Lists
-	* Doubly Linked Lists
-	* Queues
-	* Stacks
+	* [Linked Lists](https://github.com/madigun697/prepare_coding_interview/tree/main/Section%2008:%20Data%20Structures:%20Linked%20Lists)
+		- Singly Linked Lists
+		- Doubly Linked Lists
+	* [Stacks and Queues](https://github.com/madigun697/prepare_coding_interview/tree/main/Section%2009:%20Data%20Structures:%20Stacks%20%2B%20Queues)
+		- Queues
+		- Stacks
 	* Trees (BST, AVL Trees, Red Black Trees, Binary Heaps)
 	* Tries
 	* Graphs
