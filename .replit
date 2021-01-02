@@ -1,2 +1,2 @@
 language = "python3"
-run = "python ./'Section 11: Data Structures: Graphs'/Graph.py"
+run = "python ./'Section 12: Algorithms: Recursion'/exercise.py"
