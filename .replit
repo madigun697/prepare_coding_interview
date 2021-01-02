@@ -1,2 +1,2 @@
 language = "python3"
-run = "python ./'Section 12: Algorithms: Recursion'/exercise.py"
+run = "python ./'Section 13: Algorithms: Sorting'/sortings.py"

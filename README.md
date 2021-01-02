@@ -21,11 +21,11 @@ Many developers who are "self taught", feel that one of the main disadvantages t
 	* [Stacks and Queues](https://github.com/madigun697/prepare_coding_interview/tree/main/Section%2009:%20Data%20Structures:%20Stacks%20%2B%20Queues)
 		- Queues
 		- Stacks
-	* Trees (BST, AVL Trees, Red Black Trees, Binary Heaps)
+	* [Trees](https://github.com/madigun697/prepare_coding_interview/tree/main/Section%2010:%20Data%20Structures:%20Trees) (BST, AVL Trees, Red Black Trees, Binary Heaps)
 	* Tries
-	* Graphs
+	* [Graphs](https://github.com/madigun697/prepare_coding_interview/tree/main/Section%2011:%20Data%20Structures:%20Graphs)
 3. Algorithms: 
-	* Recursion
+	* [Recursion](https://github.com/madigun697/prepare_coding_interview/tree/main/Section%2012:%20Algorithms:%20Recursion)
 	* Sorting
 	* Searching
 	* Tree Traversal
