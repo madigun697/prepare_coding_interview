@@ -26,12 +26,12 @@ Many developers who are "self taught", feel that one of the main disadvantages t
 	* [Graphs](https://github.com/madigun697/prepare_coding_interview/tree/main/Section%2011:%20Data%20Structures:%20Graphs)
 3. Algorithms: 
 	* [Recursion](https://github.com/madigun697/prepare_coding_interview/tree/main/Section%2012:%20Algorithms:%20Recursion)
-	* Sorting
-	* Searching
-	* Tree Traversal
-	* Breadth First Search
-	* Depth First Search
-	* Dynamic Programming
+	* [Sorting](https://github.com/madigun697/prepare_coding_interview/tree/main/Section%2013:%20Algorithms:%20Sorting)
+	* [Searching](https://github.com/madigun697/prepare_coding_interview/tree/main/Section%2014:%20Algorithms:%20Searching%20%2B%20BFS%20%2B%20DFS)
+	    - Tree Traversal
+	    - Breadth First Search
+	    - Depth First Search
+	* [Dynamic Programming](https://github.com/madigun697/prepare_coding_interview/tree/main/Section%2015:%20Algorithms:%20Dynamic%20Programming)
 
 #### Non Technical:
 - How to get more interviews
@@ -72,8 +72,20 @@ See you inside the courses!
 3. [Big O](https://github.com/madigun697/prepare_coding_interview/tree/main/Section%203:%20Big%20O)
 4. [How To Solve Coding Problems](https://github.com/madigun697/prepare_coding_interview/tree/main/Section%204:%20How%20To%20Solve%20Coding%20Problems)
 5. Data Structures: Introduction
-6. Data Structures: Arrays
-7. Data Structures: Hash Tables
-8. Data Structures: Linked Lists
-9. Data Structures: Stacks + Queues
-10. Data Structures: Trees
+6. [Data Structures: Arrays](https://github.com/madigun697/prepare_coding_interview/tree/main/Section%2006:%20Data%20Structures:%20Arrays)
+7. [Data Structures: Hash Tables](https://github.com/madigun697/prepare_coding_interview/tree/main/Section%2007:%20Data%20Structures:%20Hash%20Tables)
+8. [Data Structures: Linked Lists](https://github.com/madigun697/prepare_coding_interview/tree/main/Section%2008:%20Data%20Structures:%20Linked%20Lists)
+9. [Data Structures: Stacks + Queues](https://github.com/madigun697/prepare_coding_interview/tree/main/Section%2009:%20Data%20Structures:%20Stacks%20%2B%20Queues)
+10. [Data Structures: Trees](https://github.com/madigun697/prepare_coding_interview/tree/main/Section%2010:%20Data%20Structures:%20Trees)
+11. [Data Structures: Graphs](https://github.com/madigun697/prepare_coding_interview/tree/main/Section%2011:%20Data%20Structures:%20Graphs)
+12. [Algorithms: Recursion](https://github.com/madigun697/prepare_coding_interview/tree/main/Section%2012:%20Algorithms:%20Recursion)
+13. [Algorithms: Sorting]((https://github.com/madigun697/prepare_coding_interview/tree/main/Section%2013:%20Algorithms:%20Sorting))
+14. [Algorithms: Searching + BFS + DFS]((https://github.com/madigun697/prepare_coding_interview/tree/main/Section%2014:%20Algorithms:%20Searching%20%2B%20BFS%20%2B%20DFS))
+15. [Algorithms: Dynamic Programming]((https://github.com/madigun697/prepare_coding_interview/tree/main/Section%2015:%20Algorithms:%20Dynamic%20Programming))
+16. Non Technical Interviews
+17. Offer + Negotiation
+18. Thank You
+19. Extras: Google, Amazon, Facebook Interview Questions
+20. Contributing To Open Source To Gain Experience
+21. Bonus: Extra Bits
+22. BONUS SECTION
