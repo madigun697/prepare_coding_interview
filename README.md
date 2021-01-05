@@ -79,9 +79,9 @@ See you inside the courses!
 10. [Data Structures: Trees](https://github.com/madigun697/prepare_coding_interview/tree/main/Section%2010:%20Data%20Structures:%20Trees)
 11. [Data Structures: Graphs](https://github.com/madigun697/prepare_coding_interview/tree/main/Section%2011:%20Data%20Structures:%20Graphs)
 12. [Algorithms: Recursion](https://github.com/madigun697/prepare_coding_interview/tree/main/Section%2012:%20Algorithms:%20Recursion)
-13. [Algorithms: Sorting]((https://github.com/madigun697/prepare_coding_interview/tree/main/Section%2013:%20Algorithms:%20Sorting))
-14. [Algorithms: Searching + BFS + DFS]((https://github.com/madigun697/prepare_coding_interview/tree/main/Section%2014:%20Algorithms:%20Searching%20%2B%20BFS%20%2B%20DFS))
-15. [Algorithms: Dynamic Programming]((https://github.com/madigun697/prepare_coding_interview/tree/main/Section%2015:%20Algorithms:%20Dynamic%20Programming))
+13. [Algorithms: Sorting](https://github.com/madigun697/prepare_coding_interview/tree/main/Section%2013:%20Algorithms:%20Sorting)
+14. [Algorithms: Searching + BFS + DFS](https://github.com/madigun697/prepare_coding_interview/tree/main/Section%2014:%20Algorithms:%20Searching%20%2B%20BFS%20%2B%20DFS)
+15. [Algorithms: Dynamic Programming](https://github.com/madigun697/prepare_coding_interview/tree/main/Section%2015:%20Algorithms:%20Dynamic%20Programming)
 16. Non Technical Interviews
 17. Offer + Negotiation
 18. Thank You
