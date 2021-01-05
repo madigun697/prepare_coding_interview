@@ -1,2 +1,2 @@
 language = "python3"
-run = "python ./'Section 14: Algorithms: Searching + BFS + DFS'/dijkstra.py"
+run = "python ./'Section 15: Algorithms: Dynamic Programming'/fibonacci.py"
